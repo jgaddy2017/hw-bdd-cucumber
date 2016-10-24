@@ -493,3 +493,22 @@ Started GET "/assets/application.self.css?body=1" for ::1 at 2015-07-23 13:57:16
 
 
 Started GET "/assets/application.self.js?body=1" for ::1 at 2015-07-23 13:57:16 -0700
+
+
+Started GET "/assets/rails.png" for 155.225.88.209 at 2016-10-23 23:57:54 +0000
+
+
+Started GET "/assets/rails.png" for 155.225.88.209 at 2016-10-23 23:58:15 +0000
+
+
+Started GET "/assets/rails.png" for 155.225.88.209 at 2016-10-23 23:59:57 +0000
+
+
+Started GET "/assets/rails.png" for 155.225.88.209 at 2016-10-24 04:40:10 +0000
+
+
+Started GET "/rails/info/properties" for 155.225.88.209 at 2016-10-24 04:42:46 +0000
+Processing by Rails::InfoController#properties as */*
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  Rendered /usr/local/rvm/gems/ruby-2.3.0/gems/railties-4.2.6/lib/rails/templates/rails/info/properties.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 68ms (Views: 52.7ms | ActiveRecord: 2.1ms)
